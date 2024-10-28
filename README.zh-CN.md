@@ -1,6 +1,6 @@
-repository-name
+开火
 
-# 存储库名称
+# 开放API
 
 > 斯拉格莱恩
 
@@ -12,7 +12,7 @@ repository-name
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -24,4 +24,4 @@ repository-name
 
 ## 400 - 结论
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
