@@ -1,7 +1,7 @@
 openapi
 # OpenAPI
 
-> Slugline
+> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
 
 [References](./REFERENCES.md)
 
