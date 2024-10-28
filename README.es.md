@@ -2,7 +2,7 @@ abrir fuego
 
 # API abierta
 
-> línea de bala
+> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
 
 [Referencias](./REFERENCES.md)
 
