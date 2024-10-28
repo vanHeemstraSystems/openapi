@@ -6,13 +6,13 @@
 
 [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
