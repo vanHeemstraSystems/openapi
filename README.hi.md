@@ -2,7 +2,7 @@
 
 # ओपनएपीआई
 
-> HTTP एपीआई के लिए एक विनिर्देश भाषा जो संरचना और वाक्यविन्यास को इस तरह से परिभाषित करती है कि एपीआई जिस प्रोग्रामिंग भाषा में बनाई गई है, उससे जुड़ी नहीं है।
+> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
 
 [संदर्भ](./REFERENCES.md)
 
@@ -24,4 +24,4 @@
 
 ## 400 - निष्कर्ष
 
-See [README.md](./400/README.md)
+देखना[README.md](./400/README.md)
