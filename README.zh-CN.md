@@ -1,6 +1,6 @@
 开火
 
-# OpenAPI
+# 开放API
 
 > HTTP API 的一种规范语言，它定义结构和语法的方式与创建 API 所用的编程语言无关。
 
@@ -10,7 +10,7 @@
 
 文本
 
-## 100 - 简介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
