@@ -4,7 +4,7 @@ ouvrir le feu
 
 > Un langage de spécification pour les API HTTP qui définit la structure et la syntaxe d'une manière qui n'est pas liée au langage de programmation dans lequel l'API est créée.
 
-[References](./REFERENCES.md)
+[Références](./REFERENCES.md)
 
 **Résumé exécutif**
 
