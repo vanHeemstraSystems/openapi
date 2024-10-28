@@ -2,7 +2,7 @@
 
 # 开放API
 
-> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
+> HTTP API 的一种规范语言，它定义结构和语法的方式与创建 API 所用的编程语言无关。
 
 [参考](./REFERENCES.md)
 
