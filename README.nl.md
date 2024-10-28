@@ -1,4 +1,4 @@
-Open vuur
+open vuur
 
 # OpenAPI
 
@@ -8,7 +8,7 @@ Open vuur
 
 **Samenvatting**
 
-Tekst
+Text
 
 ## 100 - Inleiding
 
