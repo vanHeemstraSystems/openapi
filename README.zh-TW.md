@@ -6,7 +6,7 @@
 
 [參考](./REFERENCES.md)
 
-**Executive Summary**
+**執行摘要**
 
 文字
 
@@ -16,7 +16,7 @@
 
 ## 200 - 要求
 
-See [README.md](./200/README.md)
+看[README.md](./200/README.md)
 
 ## 300 - 建立我們的應用程式
 
