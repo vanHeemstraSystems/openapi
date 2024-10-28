@@ -2,7 +2,7 @@
 
 # 开放API
 
-> 斯拉格莱恩
+> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
 
 [参考](./REFERENCES.md)
 
@@ -12,7 +12,7 @@
 
 ## 100 - 简介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
@@ -24,4 +24,4 @@ See [README.md](./100/README.md)
 
 ## 400 - 结论
 
-See [README.md](./400/README.md)
+看[README.md](./400/README.md)
