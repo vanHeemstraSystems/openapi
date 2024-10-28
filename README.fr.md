@@ -1,6 +1,6 @@
-nom du référentiel
+openapi
 
-# Nom du référentiel
+# OuvrirAPI
 
 > Slugline
 
