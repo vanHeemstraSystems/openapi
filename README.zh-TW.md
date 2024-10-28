@@ -1,4 +1,4 @@
-開火
+openapi
 
 # 開放API
 
@@ -10,7 +10,7 @@
 
 文字
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
