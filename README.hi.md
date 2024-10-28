@@ -2,7 +2,7 @@
 
 # ओपनएपीआई
 
-> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
+> HTTP एपीआई के लिए एक विनिर्देश भाषा जो संरचना और वाक्यविन्यास को इस तरह से परिभाषित करती है कि एपीआई जिस प्रोग्रामिंग भाषा में बनाई गई है, उससे जुड़ी नहीं है।
 
 [संदर्भ](./REFERENCES.md)
 
