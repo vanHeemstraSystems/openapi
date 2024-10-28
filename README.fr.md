@@ -1,10 +1,10 @@
-ouvrir le feu
+Ouvrir le feu
 
 # OuvrirAPI
 
 > Un langage de spécification pour les API HTTP qui définit la structure et la syntaxe d'une manière qui n'est pas liée au langage de programmation dans lequel l'API est créée.
 
-[Références](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Résumé exécutif**
 
@@ -18,9 +18,9 @@ Voir[README.md](./100/README.md)
 
 Voir[README.md](./200/README.md)
 
-## 300 - Construire notre application
+## 300 - Créer notre application
 
-See [README.md](./300/README.md)
+Voir[README.md](./300/README.md)
 
 ## 400 - Conclusion
 
