@@ -4,11 +4,11 @@ abrir fuego
 
 > Un lenguaje de especificación para API HTTP que define la estructura y la sintaxis de una manera que no está ligada al lenguaje de programación en el que se crea la API.
 
-[Referencias](./REFERENCES.md)
+[References](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
-Texto
+Text
 
 ## 100 - Introducción
 
@@ -16,7 +16,7 @@ Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
-Ver[README.md](./200/README.md)
+See [README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
