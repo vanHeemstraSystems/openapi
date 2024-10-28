@@ -1,12 +1,12 @@
-offenes Feuer
+Offenes Feuer
 
 # OpenAPI
 
-> Eine Spezifikationssprache für HTTP-APIs, die Struktur und Syntax auf eine Weise definiert, die nicht an die Programmiersprache gebunden ist, in der die API erstellt wird.
+> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
 
-[References](./REFERENCES.md)
+[Referenzen](./REFERENCES.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 Text
 
@@ -22,6 +22,6 @@ Sehen[README.md](./200/README.md)
 
 Sehen[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 – Fazit
 
 Sehen[README.md](./400/README.md)
