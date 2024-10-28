@@ -1,4 +1,4 @@
-open vuur
+Open vuur
 
 # OpenAPI
 
