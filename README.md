@@ -1,5 +1,5 @@
-repository-name
-# Repository Name
+openapi
+# OpenAPI
 
 > Slugline
 
