@@ -1,8 +1,8 @@
 abrir fuego
 
-# API abierta
+# OpenAPI
 
-> A specification language for HTTP APIs that defines structure and syntax in a way that is not wedded to the programming language the API is created in.
+> Un lenguaje de especificación para API HTTP que define la estructura y la sintaxis de una manera que no está ligada al lenguaje de programación en el que se crea la API.
 
 [Referencias](./REFERENCES.md)
 
@@ -10,9 +10,9 @@ abrir fuego
 
 Texto
 
-## 100 - Introducción
+## 100 - Introduction
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requisitos
 
@@ -24,4 +24,4 @@ Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
-Ver[README.md](./400/README.md)
+See [README.md](./400/README.md)
