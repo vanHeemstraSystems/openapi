@@ -8,7 +8,7 @@ open vuur
 
 **Samenvatting**
 
-Text
+Tekst
 
 ## 100 - Inleiding
 
